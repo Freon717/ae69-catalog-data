@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 5,
+  "minAppVersionCode": 7,
+  "minProductCount": 1000,
+  "productCount": 1338,
+  "photoCount": 1244,
+  "sha256": "7c67921a8d5dd65b541900b17168445356a8d63e55c4bc0b3329078722bf975f",
+  "size": 856064,
+  "format": "sqlite",
+  "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
+  "updatedAt": "2026-09-03T20:03:18Z",
+  "notes": "Каталог обновлён: 1338 позиций"
+}
