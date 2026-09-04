@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 11,
+  "dataVersion": 12,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
   "productCount": 1338,
   "photoCount": 1249,
-  "sha256": "450a66c0fa711815e133e26334d59758b4352efcbe2d6924438e14d017d0c980",
+  "sha256": "d86fe6d455f471268b2a3a2900e67f79feaefa9310aed183a12c4fd6004e5224",
   "size": 1118208,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-09-04T15:04:49Z",
-  "notes": "Поиск только по коду, артикулу и названию. Штрихкод — через сканер."
+  "updatedAt": "2026-09-04T18:15:26Z",
+  "notes": "Код 1647: в составе 5093×50 вместо ошибочного 509."
 }
