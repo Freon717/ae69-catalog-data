@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 9,
+  "dataVersion": 10,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
   "productCount": 1338,
-  "photoCount": 1244,
-  "sha256": "4321038a31941718c0ef745944894c53a019582e77e0844e5c4855450ce86dad",
-  "size": 1150976,
+  "photoCount": 1249,
+  "sha256": "bd9d1dc9e27087b7a71b9de8333f9f3ff62db6bc64780adee09155f8d381a203",
+  "size": 1159168,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-09-04T09:08:33Z",
-  "notes": "Штрихкоды из прайса 04.09.2026. 1147 из 1С + 196 по этикетке. Цены не входят."
+  "updatedAt": "2026-09-04T13:43:29Z",
+  "notes": "Составы прикуривателей и 5 новых фото. 1338 позиций."
 }
