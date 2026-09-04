@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 7,
+  "dataVersion": 8,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
   "productCount": 1338,
   "photoCount": 1244,
-  "sha256": "537347bb9b0b8aa93881399cc7988c0999cd24df08dbbb07855fa31ecc1fd7c3",
-  "size": 856064,
+  "sha256": "3586fb091138628784b810f9810d218ca8bdaf64cbd7f3b32f0a2e87aa5f5cff",
+  "size": 1150976,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-09-04T08:23:17Z",
-  "notes": "Состав для 9042СБ6 (код 16): 2827-1, 2873-6, 17-1, 1461-600, 539-150"
+  "updatedAt": "2026-09-04T08:52:49Z",
+  "notes": "Штрихкоды, состав и «входит в состав». 1338 позиций."
 }
