@@ -10,5 +10,8 @@
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
   "updatedAt": "2026-09-04T18:15:26Z",
-  "notes": "Код 1647: в составе 5093×50 вместо ошибочного 509."
+  "notes": "Каталог 12 + JSON для PWA.",
+  "jsonUrl": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.json",
+  "jsonSha256": "57f423dc9d50097bd2f9c20d986cc4bff04b32a665274d74ca1329dc92bd82dd",
+  "jsonSize": 609816
 }
