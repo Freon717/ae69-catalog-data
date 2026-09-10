@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 13,
+  "dataVersion": 14,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
-  "productCount": 1341,
+  "productCount": 1351,
   "photoCount": 1249,
-  "sha256": "7d84e328fb3ed498dd7015d65ce5fc7644ea9978c73d78a9b459921576372f48",
-  "size": 1122304,
+  "sha256": "c7514a143320d770afffb5881e17662e2053208bbeec8143c119d5f32894127f",
+  "size": 1126400,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-09-10T19:03:39Z",
-  "notes": "Каталог 13: добавлены 499, 3886, 5514.",
+  "updatedAt": "2026-09-10T19:53:50Z",
+  "notes": "Каталог 14: закрыты дыры состава из прайса + 3885; 8325 6878→6778; 1647 509→5093.",
   "jsonUrl": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.json",
-  "jsonSha256": "9a614a7578aa92a06bfafcc5319e1f17f261b6251b2d2faafebd0a1bd117493b",
-  "jsonSize": 611093
+  "jsonSha256": "ae958389ef27882d909abae16b4d3d55eee41dac156a3873f7b32a73320df58d",
+  "jsonSize": 614686
 }
