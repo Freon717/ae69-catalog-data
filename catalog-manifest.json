@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 16,
+  "dataVersion": 17,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
-  "productCount": 1357,
+  "productCount": 1358,
   "photoCount": 1249,
-  "sha256": "ae6844a893ebfadb8fa8b65272a12f1359d5623c78088f2fff0c65e4749dbe50",
-  "size": 1155072,
+  "sha256": "a69149ea0af140287ce8c995052f9f0835ab206b03e3273929fb51584f35bed1",
+  "size": 1159168,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-09-14T08:04:57Z",
-  "notes": "Каталог 16: составы/категории с «Без комплектующих» + недостающие детали из прайса.",
+  "updatedAt": "2026-09-14T08:19:08Z",
+  "notes": "Каталог 17: 5213 припой; в 8827–8829 8552→8562.",
   "jsonUrl": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.json",
-  "jsonSha256": "3abda7a5293007c05c360db5c25591e5ed72a53c2c27798c849ebca0e9803f9c",
-  "jsonSize": 622534
+  "jsonSha256": "a154ec879089af0a6d4c70fc93ab1fedf352aceb03bb14f639ef5532396a7279",
+  "jsonSize": 622766
 }
