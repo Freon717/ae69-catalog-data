@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 15,
+  "dataVersion": 16,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
-  "productCount": 1351,
+  "productCount": 1357,
   "photoCount": 1249,
-  "sha256": "35fc6336082cc062d505fbbd7b8ee65d53fc570c67362e179c976e7880b47904",
-  "size": 1126400,
+  "sha256": "ae6844a893ebfadb8fa8b65272a12f1359d5623c78088f2fff0c65e4749dbe50",
+  "size": 1155072,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-09-12T13:47:05Z",
-  "notes": "Каталог 15: состав 8640 и 8641.",
+  "updatedAt": "2026-09-14T08:04:57Z",
+  "notes": "Каталог 16: составы/категории с «Без комплектующих» + недостающие детали из прайса.",
   "jsonUrl": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.json",
-  "jsonSha256": "4a4f0df826f0139e241e235f835e97690fa15b50ed2c7f4c30de460d988a8985",
-  "jsonSize": 614720
+  "jsonSha256": "3abda7a5293007c05c360db5c25591e5ed72a53c2c27798c849ebca0e9803f9c",
+  "jsonSize": 622534
 }
