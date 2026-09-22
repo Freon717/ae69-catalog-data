@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 18,
+  "dataVersion": 19,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
-  "productCount": 1391,
-  "photoCount": 1397,
-  "sha256": "9764248d68f8b781cecb7f48b168b0c164bc73c907e13d17e653ae7f375f90c1",
-  "size": 1200128,
+  "productCount": 1408,
+  "photoCount": 1435,
+  "sha256": "938536dd84abac84b890072d2536246720a4ba4d383d18ae816535fa57cf5529",
+  "size": 1224704,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-09-18T12:25:50Z",
-  "notes": "Каталог 18: 31 держатель предохранителя с листа «Без комплектующих»; крышки 711 и 4007; код 16 — восстановлен состав 2827-1, 2863-6, 17-1, 1461-600, 539-150; 5602 опечатка 5600--1→5600-1.",
+  "updatedAt": "2026-09-22T11:21:26Z",
+  "notes": "Каталог 19: 13 наборов НК2х10, НА-01/НА-02; клеммы 3733/3734 (ГСИ) для состава НА; в 5754 опечатка 5647-1485-1→5647-2, 1485-1.",
   "jsonUrl": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.json",
-  "jsonSha256": "2be56292ffa199705f874e4c0637ea4692030bff584c01e55eb8a5b3ffa7c635",
-  "jsonSize": 645536
+  "jsonSha256": "717d7fc706f46ddd3635391667305c9526abf32133dda44d7fdeacacb44bd8fb",
+  "jsonSize": 654247
 }
