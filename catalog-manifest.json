@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 19,
+  "dataVersion": 20,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
-  "productCount": 1408,
-  "photoCount": 1435,
-  "sha256": "938536dd84abac84b890072d2536246720a4ba4d383d18ae816535fa57cf5529",
-  "size": 1224704,
+  "productCount": 1411,
+  "photoCount": 1441,
+  "sha256": "1dd7a0aef7cf3747606b4a2ee0f19937050c8768865a08dcdceb71cacd187090",
+  "size": 1228800,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-09-22T11:21:26Z",
-  "notes": "Каталог 19: 13 наборов НК2х10, НА-01/НА-02; клеммы 3733/3734 (ГСИ) для состава НА; в 5754 опечатка 5647-1485-1→5647-2, 1485-1.",
+  "updatedAt": "2026-10-08T21:17:37Z",
+  "notes": "Каталог 20: добавлены 5768, 7766 и провод 5845; заполнены составы наборов автопровода; исправлены разделители состава 7806 и 7816.",
   "jsonUrl": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.json",
-  "jsonSha256": "717d7fc706f46ddd3635391667305c9526abf32133dda44d7fdeacacb44bd8fb",
-  "jsonSize": 654247
+  "jsonSha256": "b798fecd10900b094276a8179510a327cf707f53606f63dfb7d3c04ef16f2769",
+  "jsonSize": 655664
 }
