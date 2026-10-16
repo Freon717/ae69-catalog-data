@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 22,
+  "dataVersion": 23,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
   "productCount": 1416,
   "photoCount": 1456,
-  "sha256": "6e342a557026e0ceb5ba0e63b5ca3864b808c3c455a8703a0a6392aff8bbd551",
+  "sha256": "156cb932b9c1ef5170eaff15b28812b3e15b3f31d3d45d07213cc042c46613f6",
   "size": 1232896,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-10-15T20:57:55Z",
-  "notes": "Каталог 22: добавлены 3752, 8552, 6941, 7129; обновлены составы, фото и описания из рабочего Excel.",
+  "updatedAt": "2026-10-16T06:31:13Z",
+  "notes": "Каталог 23: исправлен состав 3196 — количество провода 539 изменено с 120 на 0.24.",
   "jsonUrl": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.json",
-  "jsonSha256": "3a7f375bfd4a57af5853ac8b6d8fe31681ad9a36434d06bf7c26689ea602d53a",
-  "jsonSize": 658705
+  "jsonSha256": "1b443239cfad577e79978da62c14c65f41ac1616e248e937ced2b07041871e74",
+  "jsonSize": 658706
 }
