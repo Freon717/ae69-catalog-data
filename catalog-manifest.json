@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 24,
+  "dataVersion": 25,
   "minAppVersionCode": 7,
   "minProductCount": 1000,
-  "productCount": 1420,
+  "productCount": 1422,
   "photoCount": 1458,
-  "sha256": "a2b07d2fb83b4bca55209b262f5875af909dd72b32dbbdc5dde8cb43d9b63c98",
-  "size": 1236992,
+  "sha256": "1aac0644e92b5c35e5ae4cad67c0d0e00fba5b4236f94ce342181e5a4277cfb4",
+  "size": 1241088,
   "format": "sqlite",
   "url": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.db",
-  "updatedAt": "2026-10-16T07:21:33Z",
-  "notes": "Каталог 24: добавлены 6986, 8007, 7821, 8009; обновлены составы и фото 6941 и 7129.",
+  "updatedAt": "2026-10-16T08:29:46Z",
+  "notes": "Каталог 25: добавлены 4496 и компонент 4066; внесён состав имитатора сигнализации.",
   "jsonUrl": "https://raw.githubusercontent.com/Freon717/ae69-catalog-data/main/catalog.json",
-  "jsonSha256": "daf459b26471a2aff80b21639973b3e7fe4e8f205884a944ace8f0ce67b3dd48",
-  "jsonSize": 660485
+  "jsonSha256": "61b4d1c544972da36b5cad3d71ffbc9654f83183209b60845b49009c3f023492",
+  "jsonSize": 661075
 }
